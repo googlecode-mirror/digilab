@@ -10,7 +10,7 @@
     <version>1.0.0</version>
     <description>Hello World descr</description>
     
-    <install> <!-- Runs on install -->
+    <install> <!-- Runs on install elouali -->
         <sql>
             <file driver="mysql" charset="utf8">sql/install.mysql.utf8.sql</file>
         </sql>
