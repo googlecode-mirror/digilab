@@ -1,3 +1,3 @@
 <?php
-echo 'digilab email add';
+echo 'digilab email add modified';
 ?>
